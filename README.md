@@ -1,18 +1,16 @@
-# Calculator App 🧮✨
+# Animated Login Form 🔐✨
 
-This project is a simple and interactive **Calculator App** built using **HTML, CSS, and JavaScript**.  
-It performs all basic arithmetic operations with a clean UI and smooth button interactions.  
-Perfect for beginners learning DOM, events, and JavaScript logic.
+This project is a modern and stylish **Animated Login Form** created using **HTML, CSS, and JavaScript**.  
+It includes smooth input animations, glowing effects, and a clean user interface to enhance the login experience.
 
 ---
 
 ### ✨ Features
-- Clean & modern calculator UI  
-- Supports addition, subtraction, multiplication, and division  
-- Smooth button click animations  
+- Modern UI with beautiful animations  
+- Glowing input fields  
+- Smooth hover and click effects  
 - Fully responsive design  
-- Built using pure HTML, CSS, & JavaScript  
-- Works in all modern browsers  
+- No external libraries — 100% HTML/CSS/JS  
 
 ---
 
@@ -24,7 +22,10 @@ Perfect for beginners learning DOM, events, and JavaScript logic.
 ---
 
 ### 💡 How to Use
-1. Clone or download this repository.  
+1. Download or clone this repository.  
 2. Open the `index.html` file in your browser.  
-3. Start using the calculator — click the buttons to perform operations.  
+3. Enter your username/password and experience the animation.
 
+---
+
+### 📂 Folder Structure
